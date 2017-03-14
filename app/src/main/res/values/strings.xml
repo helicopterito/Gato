@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gato</string>
+    <string name="instruccion">Presiona un botón para iniciar</string>
+</resources>
